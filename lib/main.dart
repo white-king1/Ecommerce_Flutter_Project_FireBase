@@ -1,5 +1,6 @@
 // ignore_for_file: prefer_const_constructors
 
+import 'package:firebase_shop_app/utils/constants/colors.dart';
 import 'package:firebase_shop_app/utils/theme/theme.dart';
 import 'package:flutter/material.dart';
 
@@ -9,6 +10,7 @@ void main() {
   // Todo: Await Native Splash
   // Todo: Initialise Firebase
   // Todo: Initialize Authenticaton
+
 
   runApp(const App());
 }
